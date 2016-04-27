@@ -1,2 +1,2 @@
 # springbootjpa
-JPA project using Spring Boot
+Spring Boot JPA project created using Yeoman generator - https://github.com/tomaslin/generator-spring -
